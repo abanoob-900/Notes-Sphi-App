@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.enricocid:cpl:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/77e8ec9ece92c1ab18f59e37ebe4faf0/transformed/jetified-cpl-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/77e8ec9ece92c1ab18f59e37ebe4faf0/transformed/jetified-cpl-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/77e8ec9ece92c1ab18f59e37ebe4faf0/transformed/jetified-cpl-1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.enricocid/cpl/1.0.3/3423682f369f42fa1b75bdad5dc972795f413c64/cpl-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.enricocid/cpl/1.0.3/2e6e87e4df23cce64dcb8c0c048a4bfeb3e520a7/cpl-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
